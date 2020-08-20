@@ -217,4 +217,25 @@
 ### 평가 - Mean Average Precision
 
 - https://danthetech.netlify.app/DataScience/evaluation-metrics-for-recommendation-system
-- 
+
+## 8. Kaggle
+
+### Ensemble
+
+- [https://subinium.github.io/introduction-to-ensemble-1/#:~:text=%EC%95%99%EC%83%81%EB%B8%94(Ensemble)%20%ED%95%99%EC%8A%B5%EC%9D%80%20%EC%97%AC%EB%9F%AC,%EB%A5%BC%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%A9%B4%20%EC%A2%8B%EC%8A%B5%EB%8B%88%EB%8B%A4.](https://subinium.github.io/introduction-to-ensemble-1/#:~:text=앙상블(Ensemble) 학습은 여러,를 가지고 이해하면 좋습니다.)
+
+### Kaggle Ensemble Guide
+
+- https://gentlej90.tistory.com/73
+
+### R squared
+
+- https://newsight.tistory.com/259
+
+### Random search VS Grid search
+
+- https://shwksl101.github.io/ml/dl/2019/01/30/Hyper_parameter_optimization.html
+
+### the scoreing parameter
+
+- https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter

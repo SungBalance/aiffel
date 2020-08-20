@@ -410,6 +410,10 @@ if __name__ == '__main__':
 
 - https://newsight.tistory.com/302
 
+### Visualize Deep Learning
+
+- https://www.youtube.com/playlist?list=PLXRmG-SrXaHg4XsOAlZ3zbsYvwYhyXycJ
+
 ## 11. 텍스트의 다양한 변신
 
 ### 유니코드 테이블
@@ -533,4 +537,52 @@ str.split(' ')
 
 - https://youtu.be/C3EEy8adxvc
 - https://en.wikipedia.org/wiki/Convolution
+
+
+
+## 16. Preprocessing
+
+### Three ways to detect ourliers
+
+- http://colingorrie.github.io/outlier-detection.html
+
+### Normalization
+
+- Standardization
+
+- Min-Max Scaling
+
+  [X-min(X)]/[max(X)-min(X)]
+
+### Normalizing Inputs
+
+- https://www.youtube.com/watch?v=FDCfw-YqWTE&feature=youtu.be
+
+## 17. Crawling
+
+### TCP/IP
+
+- https://youtu.be/614QGgw_FA4
+- https://en.wikipedia.org/wiki/Internet_protocol_suite
+- https://brunch.co.kr/@wangho/6
+
+### HTTP status code
+
+- https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C
+
+### URL
+
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL
+
+### API
+
+- https://youtu.be/iyFHfzCRHA8
+
+- https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API#2-rest%EC%9D%98-%ED%8A%B9%EC%A7%95
+
+### cookie, session, cache
+
+- https://www.youtube.com/watch?v=OpoVuwxGRDI
+
+
 
