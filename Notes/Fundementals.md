@@ -584,5 +584,83 @@ str.split(' ')
 
 - https://www.youtube.com/watch?v=OpoVuwxGRDI
 
+## 18. image in python
 
+### Color Space
 
+- https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
+
+## 19. 확률 및 확률분포
+
+### 매핑
+
+- http://www.ktword.co.kr/abbr_view.php?m_temp1=608
+
+## 20. DB
+
+### PEP 249: Python Database API
+
+- https://legacy.python.org/dev/peps/pep-0249/
+
+### Transaction
+
+- https://sjh836.tistory.com/11
+
+### CASE
+
+- https://www.sqlitetutorial.net/sqlite-case/
+
+## 21. Likelihood / MLE, MAP
+
+### Mathmatics for Machine Learning
+
+- https://mml-book.com/
+
+## 22. FLASK
+
+### CSS Tutorial
+
+- https://www.w3schools.com/css/
+
+### Check port listening
+
+- ```bash
+  netstat -an | grep 5000
+  ```
+
+## 23. Vanilla Neural Network
+
+### Bias Neuron
+
+- https://funnypr.tistory.com/entry/The-Basic-Artificial-Neuron-Bias-neuron
+
+### Venishing Gradient
+
+- https://brunch.co.kr/@chris-song/39
+
+### Activation Function
+
+- https://reniew.github.io/12/
+- https://pozalabs.github.io/Activation_Function/
+- https://wikidocs.net/60683
+
+### Cross Entropy
+
+- #### 교차 엔트로피 (Cross Entropy)
+
+  Cross Entropy는 두 확률분포 사이의 유사도가 클수록 작아지는 값입니다.
+
+- https://towardsdatascience.com/understanding-different-loss-functions-for-neural-networks-dd1ed0274718
+- http://www.gisdeveloper.co.kr/?p=7631
+
+### Gradient Descent
+
+- https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-3-gradient-descent-algorithm-%EA%B8%B0%EB%B3%B8-c0688208fc59
+
+### Learning Rate
+
+- https://aileen93.tistory.com/71
+
+### Weight Initialization
+
+- https://reniew.github.io/13/
