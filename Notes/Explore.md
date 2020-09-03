@@ -239,3 +239,44 @@
 ### the scoreing parameter
 
 - https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+
+## 9. RNN
+
+### 텍스트 감정 분석
+
+- https://dbr.donga.com/article/view/1202/article_no/8891/ac/magazine
+
+### RNN
+
+- https://youtu.be/-SHPG_KMUkQ
+
+## 10. IMAGE
+
+### opencv
+
+- https://opencv-python.readthedocs.io/en/latest/doc/01.imageStart/imageStart.html
+
+### FACE DETECTION
+
+- https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-4-63ed781eee3c
+- https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+
+### Image pyramids
+
+- https://opencv-python.readthedocs.io/en/latest/doc/14.imagePyramid/imagePyramid.html
+
+### dlib detector
+
+- http://dlib.net/python/index.html#dlib.rectangles
+
+### AFLW dataset
+
+- https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
+
+### ibug 300-W dataset
+
+- https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
+
+### One Millisecond Face Alignment with an Ensemble of Regression Trees
+
+- http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf

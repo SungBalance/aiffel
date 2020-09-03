@@ -664,3 +664,160 @@ str.split(' ')
 ### Weight Initialization
 
 - https://reniew.github.io/13/
+
+### Softmax and Cross Entropy Loss
+
+- https://deepnotes.io/softmax-crossentropy
+
+## 24. Evaluation Metric
+
+### Metrics and scoring
+
+- https://scikit-learn.org/stable/modules/model_evaluation.html#multilabel-ranking-metrics
+
+### Loss vs Accuracy
+
+- https://kharshit.github.io/blog/2018/12/07/loss-vs-accuracy
+
+- Loss : 모델 학습시 **학습데이터(train data)**를 바탕으로 계산되어, 모델의 파라미터 업데이트에 활용되는 함수
+- Metric : 모델 학습 종료 후 **테스트데이터(test data)**를 바탕으로 계산되어, 학습된 모델의 성능을 평가하는데 활용되는 함수
+
+### 회귀의 오류 지표
+
+- https://partrita.github.io/posts/regression-error/
+
+### Ranking 지표의 평가
+
+- https://lamttic.github.io/2020/03/20/01.html
+
+### Methods to measure the silmilarity between images(이미지 생성 모델)
+
+- https://medium.com/@datamonsters/a-quick-overview-of-methods-to-measure-the-similarity-between-images-f907166694ee
+
+### 기계번역 모델의 평가척도
+
+- https://donghwa-kim.github.io/BLEU.html
+
+### 이미지 다루기 - gramman 0.1
+
+- https://opencv-python.readthedocs.io/en/latest/doc/01.imageStart/imageStart.html
+
+### Face Recognition
+
+- https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-4-63ed781eee3c
+
+### Machine Learning Face Recognition
+
+- https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+
+## 25. 추천 시스템
+
+### 유사도
+
+- 코사인 유사도
+- 유클리드 거리
+- 자카드 유사도
+- 피어슨 상관계수
+
+### Content Based Filtering
+
+### Collaborative Filtering
+
+- User based
+- Item based
+- Latent factor collaborative filtering -> matrix factorization
+  - SVD: Singular Vector Decomposition
+    -  Truncated SVD(LSA(Latent semantic analysis))
+  - ALS: Alternating Least Squares
+  - NMF: Non-Negative Factorization
+
+### Building a Movie Recommendation Engine in Python using Scikit-Learn
+
+- http://www.codeheroku.com/post.html?name=Building%20a%20Movie%20Recommendation%20Engine%20in%20Python%20using%20Scikit-Learn
+
+### SVD
+
+- https://angeloyeo.github.io/2019/08/01/SVD.html
+- https://darkpgmr.tistory.com/106
+
+### TruncatedSVD
+
+- https://youtu.be/epoHE2rex0g
+
+### Netflix recommend
+
+- https://youtu.be/ZspR5PZemcs
+- https://youtu.be/f8OK1HBEgn0
+
+### CTR: 클릭률
+
+- https://support.google.com/google-ads/answer/2615875?hl=en
+
+### 왓챠
+
+- https://youtu.be/jT-LJidbG5U
+
+## 26. Tensorflow V2 API
+
+### Overview of changes from TF1 to TF2
+
+- https://www.datasciencecentral.com/profiles/blogs/tensorflow-1-x-vs-2-x-summary-of-changes
+
+### Tensorflow 시작하기: 초보자용
+
+- https://www.tensorflow.org/tutorials/quickstart/beginner
+
+### Keras functional API
+
+- https://www.tensorflow.org/guide/keras/functional
+
+### Tensorflow 시작하기: 전문가용
+
+- https://www.tensorflow.org/tutorials/quickstart/advanced
+
+### CIFAR-100 dataset
+
+- https://www.cs.toronto.edu/~kriz/cifar.html
+
+## 27. Multiprocessing
+
+### CPU bound and I/O bound
+
+- https://stackoverflow.com/questions/868568/what-do-the-terms-cpu-bound-and-i-o-bound-mean
+
+### 프로파일링
+
+**코드의 병목***(bottleneck)을 찾아내고* **성능을 측정***해 주는 도구*
+
+`profile` 모듈, `cProfile` 모듈과 `line_profiler` 패키지
+
+### Scale up, scale out
+
+- https://hyuntaeknote.tistory.com/m/4
+
+### Python threading
+
+- https://docs.python.org/3/library/threading.html
+
+### python multithreading
+
+- https://docs.python.org/3/library/multiprocessing.html
+
+  ```python
+  p = mp.Process(target=delivery, args=())
+  p.start() # 프로세스 시작
+  p.join() # 실제 종료까지 기다림 (필요시에만 사용)
+  p.terminate() # 프로세스 종료
+  ```
+
+### Pool - queue로 만들기
+
+- https://docs.python.org/3/library/queue.html
+
+### concurrent.futures 라이브러리의 `ThreadPoolExecutor` , `ProcessPoolExecutor`클래스를 이용하는 방법
+
+- https://docs.python.org/ko/3/library/concurrent.futures.html
+
+### concurrent.futures
+
+- https://docs.python.org/ko/3/library/concurrent.futures.html
